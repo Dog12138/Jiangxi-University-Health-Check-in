@@ -8,10 +8,10 @@
 
 //学校代码
 //请参考   江西省100所高校.csv  或    江西省100所高校.xlsx
-$school_id = "4136010403";
+$school_id = "4136011319";
 
 //请输入你的学号，不是两位数的
-$sid = "1008611";//学号
+$sid = "2019102177";//学号
 
 $cookie_jar = __DIR__ . "/cookies/{$sid}.cookie";
 file_put_contents($cookie_jar, "");
